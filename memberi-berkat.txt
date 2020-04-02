@@ -1,8 +1,13 @@
 RENCANA MEMBERI BERKAT
 
 - javascript
+  * ES6
+  *Framework Javascript
+    *Vue
 - PHP Framework
+  * Laravel
 - Interview
 - Vlogs
 - Detail menambahkan javascript
 - Struktur dasar
+- Pithon
