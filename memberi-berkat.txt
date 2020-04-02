@@ -2,6 +2,7 @@ RENCANA MEMBERI BERKAT
 
 - javascript
   * ES6
+  * Reack
   *Framework Javascript
     *Vue
 - PHP Framework
