@@ -5,3 +5,4 @@ RENCANA MEMBERI BERKAT
 - Interview
 - Vlogs
 - Detail menambahkan javascript
+- Struktur dasar
