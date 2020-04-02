@@ -4,3 +4,4 @@ RENCANA MEMBERI BERKAT
 - PHP Framework
 - Interview
 - Vlogs
+- Detail menambahkan javascript
