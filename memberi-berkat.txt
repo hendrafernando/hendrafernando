@@ -2,7 +2,10 @@ RENCANA MEMBERI BERKAT
 
 - javascript
 - PHP Framework
+  * Angular
+  * React
 - Interview
 - Vlogs
 - Detail menambahkan javascript
+  *Laravel
 - Struktur dasar
